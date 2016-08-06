@@ -1,0 +1,33 @@
+_repo: Buddy-and-Brighteyes-Pigg--Bed-Time-Stories_11156
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Wisa, Louis
+    gutenberg_agent_id: '8138'
+    url: http://www.gutenberg.org/2009/agents/8138
+creator:
+  author:
+    agent_name: Garis, Howard Roger
+    aliases:
+    - Garis, Howard R.
+    - Davidson, Marion
+    birthdate: 1873
+    deathdate: 1962
+    gutenberg_agent_id: '808'
+    url: http://www.gutenberg.org/2009/agents/808
+    wikipedia: http://en.wikipedia.org/wiki/Howard_R._Garis
+description: ''
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11156'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Guinea pigs -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: 'Buddy and Brighteyes Pigg: Bed Time Stories'
+url: http://www.gutenberg.org/ebooks/11156
