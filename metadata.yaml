@@ -1,10 +1,13 @@
 _repo: Buddy-and-Brighteyes-Pigg--Bed-Time-Stories_11156
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Wisa, Louis
     gutenberg_agent_id: '8138'
     url: http://www.gutenberg.org/2009/agents/8138
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Garis, Howard Roger
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/808
     wikipedia: http://en.wikipedia.org/wiki/Howard_R._Garis
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11156#Buddy-and-Brighteyes-Pigg--Bed-Time-Stories
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
 identifiers:
